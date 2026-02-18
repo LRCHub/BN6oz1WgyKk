@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "スマイロブドリーマ",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-18T05:05:16.518844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スマイロブドリーマ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_スマイロブドリーマ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スマイロブドリーマ - Smile Of Dreamer",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_スマイロブドリーマ_-_Smile_Of_Dreamer_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スマイロブドリーマ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/03_スマイロブドリーマ_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スマイロブドリーマ",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/04_スマイロブドリーマ_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スマイロブドリーマ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_スマイロブドリーマ_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
